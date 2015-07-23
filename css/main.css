@@ -38,6 +38,10 @@ body {
   background-image: url('../images/ryu-throwing-hadouken.png');
 }
 
+.ryu-cool {
+  background-image: url('../images/ryu-cool.gif');
+}
+
 .hadouken, .ryu-ready, .ryu-still, .ryu-throwing {
   background-repeat: no-repeat;
 }
@@ -50,11 +54,11 @@ body {
 	 float: left;
 	 position: absolute;
 	 z-index: 10;
-	   top: 0px;
-  	left: 0px;
+	   top: 167px;
+  	left: 520px;
   	float: left;
 }
 
-* {
+/** {
   outline: red 1px solid;
-}
+}*/
